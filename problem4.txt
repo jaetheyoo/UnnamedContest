@@ -1,0 +1,5 @@
+../spam/eggs
+../spam/../eggs
+../../../eggs
+spam/../../../eggs
+spam/././eggs/../././../spam/./eggs
